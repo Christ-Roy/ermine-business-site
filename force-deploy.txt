@@ -1,0 +1,2 @@
+Ce fichier est créé pour forcer un déploiement sur Netlify.
+Date: 2025-05-05
